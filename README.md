@@ -16,5 +16,5 @@ Fun facts:
 - I love to play games
 - My favorite anime is attack on titan
 - I don't like peanut
-- My hobbys: games, anime, gym, build my own programs
+- My hobbys: games, anime, gym and build my own programs
 
