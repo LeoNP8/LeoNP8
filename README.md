@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**LeoNP8/LeoNP8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leonardo, a Systems development analysis in Brazil
 
-Here are some ideas to get you started:
+I build whatever comes to my mind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is Python, HTML, CSS and JavaScript. My favorite tools is Obsidian and VScode
+
+I am currently studding more Python 
+
+I am currently working on expanding my portfolio with more robust and sophisticated projects in the near future.
+
+You can talk to me on my LinkedIn or Gmail
+
+## Fun facts:
+- I love to play games
+- My favorite anime is attack on titan
+- I don't like peanut
+- My hobbys: games, anime, gym, build my own programs
+
