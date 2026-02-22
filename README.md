@@ -12,7 +12,7 @@ I am currently working on expanding my portfolio with more robust and sophistica
 
 You can talk to me on my LinkedIn or Gmail
 
-## Fun facts:
+Fun facts:
 - I love to play games
 - My favorite anime is attack on titan
 - I don't like peanut
