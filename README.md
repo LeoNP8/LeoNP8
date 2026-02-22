@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Leonardo, a Systems development analysis in Brazil
+I'm Leonardo, a Systems Analysis and Development in Brazil
 
 I build whatever comes to my mind
 
