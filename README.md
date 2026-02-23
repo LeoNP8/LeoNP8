@@ -4,7 +4,7 @@ I'm Leonardo, a Systems Analysis and Development in Brazil
 
 I build whatever comes to my mind
 
-My main tech stack is Python, HTML, CSS and JavaScript. My favorite tools is Obsidian and VScode
+My main tech stack is Python, HTML, CSS and JavaScript. My favorite tools are Obsidian and VScode
 
 I am currently studding more Python 
 
