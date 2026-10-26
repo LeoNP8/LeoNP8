@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Leonardo, Information Systems student (4th semester) at Cruzeiro do Sul in Brazil, focused on back-end development, Python automation, and pentesting. Certified in Google Cloud Digital Leader and Python, always deepening my hands-on knowledge.
+I'm Leonardo with 20 years, Information Systems student (4th semester) at Cruzeiro do Sul in Brazil, focused on back-end development, Python automation, and mainly on pentesting. Certified in Google Cloud Digital Leader and Python, always deepening my hands-on knowledge.
 
 What I'm building and studying:
 - Python, HTML, CSS, JavaScript, and Pentest
