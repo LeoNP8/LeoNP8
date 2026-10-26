@@ -1,16 +1,12 @@
 # Hi there 👋
 
-I'm Leonardo, a Systems Analysis and Development in Brazil
+I'm Leonardo, Information Systems student (4th semester) at Cruzeiro do Sul in Brazil, focused on back-end development, Python automation, and pentesting. Certified in Google Cloud Digital Leader and Python, always deepening my hands-on knowledge.
 
-My main tech stack is Python, HTML, CSS and JavaScript. My favorite tools are Obsidian and VScode
+What I'm building and studying:
+- Python, HTML, CSS, JavaScript, and Pentest
+- Project 1: Paleontology website for Cruzeiro do Sul – built with Python (FastAPI), React.js, and PostgreSQL
+- Project 2: Tic-Tac-Toe game – built with Python
+- Cloud computing concepts with Google Cloud
 
-I am currently studying Python and penetration testing while expanding my portfolio with more robust and sophisticated projects.
-
-You can talk to me on my LinkedIn or Gmail
-
-Fun facts:
-- I love to play games
-- My favorite anime is attack on titan
-- I don't like peanut
-- My hobbys: games, RPG, anime, gym and build my own programs
+I share my studies on YouTube and Twitch, and my projects are hosted on GitHub. I am looking for a junior or internship opportunity in back-end development, automation, cloud computing, or cybersecurity to learn alongside a team and deliver value from day one.
 
